@@ -1,12 +1,12 @@
-<h1 align="left">👋 Hi, I'm Harsh Patel</h1>
+<h1 align="center">👋 Hi, I'm Harsh Patel</h1>
 
 ###
 
-<p align="left">Graphic Designer | Amateur Street Photographer | Data Science - Visualizing Data & Stories<br>📍 Bhopal, India | 🔍 Seeking Data Science/Analyst Roles</p>
+<p align="center"><strong>Graphic Designer | Amateur Street Photographer | Data Science - Visualizing Data & Stories</strong><br>📍 Bhopal, India | 🔍 Seeking Data Science/Analyst Roles</p>
 
 ###
 
-<h4 align="left">Tech Stack</h4>
+<h3 align="center">Tech Stack</h4>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<h4 align="left">Social Media</h4>
+<h3 align="center">Social Media</h4>
 
 ###
 
