@@ -83,11 +83,14 @@
 </div>
 
 ###
-
 <br clear="both">
-
 <div align="center">
-  <img src="https:\\psychborg.pythonanywhere.com?theme=dark&spin=false&scan=true&rainbow=true" alt="Widget with the current Spotify song"  />
+  <a href="https://psychborg.pythonanywhere.com/link">
+    <img
+      src="https://psychborg.pythonanywhere.com?scan=true&eq_color=rainbow&theme=dark"
+      alt="Current Spotify Song"
+    />
+  </a>
 </div>
 
 ###
