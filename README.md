@@ -83,17 +83,6 @@
 </div>
 
 ###
-<br clear="both">
-<div align="center">
-  <a href="https://psychborg.pythonanywhere.com/link">
-    <img
-      src="https://psychborg.pythonanywhere.com?scan=true&eq_color=rainbow&theme=dark"
-      alt="Current Spotify Song"
-    />
-  </a>
-</div>
-
-###
 
 <br clear="both">
 
