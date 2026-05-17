@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center"><strong>Graphic Designer | Amateur Street Photographer | Data Science - Visualizing Data & Stories</strong><br>📍 Bhopal, India | 🔍 Seeking Data Science/Analyst Roles</p>
+<p align="center"><strong>Graphic Designer | Linux Enthusiast | Data Science - Visualizing Data & Stories</strong><br>📍 Bhopal, India | 🔍 Seeking Data Science/Analyst Roles</p>
 
 ###
 
